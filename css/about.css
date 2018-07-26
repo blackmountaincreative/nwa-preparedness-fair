@@ -158,6 +158,11 @@ h5 {
     width: 19vw;
 }
 
+.fb-event-img{
+    padding-top: 2vh;
+    height: 8vh;
+}
+
 .footer {
     padding: 1% 6%;
     display: flex;

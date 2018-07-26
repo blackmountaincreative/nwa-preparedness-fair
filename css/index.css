@@ -227,6 +227,11 @@ h1 {
     height: 15vh;
 }
 
+.fb-event-img{
+    padding-top: 2vh;
+    height: 8vh;
+}
+
 .paragraph-container {
     width: 25vw;
     padding: 10%;
